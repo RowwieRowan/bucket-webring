@@ -15,3 +15,4 @@ fetch(DATA_FOR_WEBRING)
     right.href += "&name=" + name;
 
   });
+{ "RowanBot209": "<RowanBot209>", "https://rowanbot209.neocities.org": "<https://rowanbot209.neocities.org>" }
